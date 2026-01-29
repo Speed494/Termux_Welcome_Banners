@@ -18,6 +18,8 @@ A simple but powerful **Termux tool** to change your **welcome / startup banner*
 
 ## 📸 Preview
 
+![Banner Preview](Images/Screenshot_20260129-141234.png)
+
 
 
 ```
