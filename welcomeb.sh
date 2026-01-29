@@ -58,16 +58,20 @@ selected="pch.txt"
 esac
 
 
+
+
+sed -i '/clear/d' ~/.bashrc
 sed -i '/cat.*\.txt/d' ~/.bashrc
 
-
 if [[ $choice == "3" ]]; then
+    # Pehle screen clear hogi, fir banner aayega
+    echo "clear" >> ~/.bashrc
     echo "cat $selected | lolcat" >> ~/.bashrc
     filename=$(basename $selected)
     echo -e "${GREEN}Done! Randomly select hua hai${NC}"
 else
+    echo "clear" >> ~/.bashrc
     echo "cat $DIR/$selected | lolcat" >> ~/.bashrc
     echo -e "${GREEN}Success! style set ho gaya hai.${NC}"
 fi
 
-echo -e "${YELLOW}Bye Bye${NC}"
