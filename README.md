@@ -34,3 +34,20 @@ Devil
 
 PC Hacker Style
 ![Banner Preview](Images/Screenshot_20260129-141112.png)
+
+Skull Style
+![Banner Preview](Images/Screenshot_20260129-140512.png)
+
+Kali Style
+![Banner Preview](Images/Screenshot_20260129-140423.png)
+
+Random Style
+![Banner Preview](Images/Screenshot_20260129-140355.png)
+
+
+Random Style
+![Banner Preview](Images/Screenshot_20260129-140321.png)
+
+
+Hacker Style
+![Banner Preview](Images/Screenshot_20260129-140230.png)
