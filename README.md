@@ -17,3 +17,13 @@ A simple but powerful **Termux tool** to change your **welcome / startup banner*
 ---
 
 ## 📸 Preview
+
+
+
+```
+pkg install ruby && gem install lolcat
+git clone https://github.com/Speed494/Termux_Welcome_Banners
+cd Termux_Welcome_Banners
+chmod +x welcomeb.sh
+./welcomeb.sh
+```
