@@ -16,9 +16,7 @@ A simple but powerful **Termux tool** to change your **welcome / startup banner*
 
 ---
 
-## 📸 Preview
 
-![Banner Preview](Images/Screenshot_20260129-141234.png)
 
 
 
@@ -29,3 +27,10 @@ cd Termux_Welcome_Banners
 chmod +x welcomeb.sh
 ./welcomeb.sh
 ```
+
+## 📸 Preview
+Devil
+![Banner Preview](Images/Screenshot_20260129-141234.png)
+
+PC Hacker Style
+![Banner Preview](Images/Screenshot_20260129-141112.png)
