@@ -15,11 +15,23 @@ A simple but powerful **Termux tool** to change your **welcome / startup banner*
 - 🛠 Works on all Termux versions
 
 ---
+## 🧰 Requirements
+- Termux (latest version recommended)
+- Android device
+- Internet connection (first time installation only)
+- Basic knowledge of Termux commands
+
+
+## 📢 Disclaimer
+This tool is made for **educational and customization purposes only**.
+
+The author is **not responsible** for any damage, data loss, or issues caused
+by improper use of this tool.  
+Use it at your own risk.
 
 
 
-
-
+# Termux
 ```
 
 git clone https://github.com/Speed494/Termux_Welcome_Banners
@@ -52,3 +64,31 @@ Random Style
 
 Hacker Style
 ![Banner Preview](Images/Screenshot_20260129-140230.png)
+
+
+
+## 🛡 License
+This project is licensed under the **MIT License**.
+
+You are free to:
+- Use this tool
+- Modify the source code
+- Share or distribute it
+- Use it for personal or commercial purposes
+
+As long as you give proper credit to the original author.
+
+
+
+## 🤝 Contribution
+Contributions are welcome! 🚀
+
+If you want to improve this project:
+1. Fork this repository
+2. Make your changes
+3. Create a Pull Request
+
+Bug reports, feature suggestions, and improvements are always appreciated.
+
+
+
