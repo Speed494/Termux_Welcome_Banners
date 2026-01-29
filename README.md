@@ -24,7 +24,7 @@ A simple but powerful **Termux tool** to change your **welcome / startup banner*
 
 git clone https://github.com/Speed494/Termux_Welcome_Banners
 cd Termux_Welcome_Banners
-bash install.sh
+bash Install.sh
 chmod +x welcomeb.sh
 ./welcomeb.sh
 ```
