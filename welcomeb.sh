@@ -21,6 +21,7 @@ echo -e "${YELLOW}2. Hacker Style${NC}"
 echo -e "${YELLOW}3. Random Style (Surprise!)${NC}"
 echo -e "${YELLOW}4. Devil Style${NC}"
 echo -e "${YELLOW}5. Skull Style${NC}"
+echo -e "${YELLOW}6. PC Hacker Style${NC}"
 echo -e "${RED}0. Exit${NC}"
 echo -e "${GREEN}================================${NC}"
 read -p "Select an option : " choice
@@ -43,6 +44,9 @@ selected="devil.txt"
 ;;
 5)
 selected="skull.txt"
+;;
+6)
+selected="pch.txt"
 ;;
     0)
         exit
